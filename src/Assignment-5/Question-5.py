@@ -26,3 +26,4 @@ elif num > 1:
         print(num, "is a prime number")
         print ("hii team this is my 1st Change in Question-5")
         print (" this is my 2nd change in question -5")
+        print ("Satyam")
