@@ -7,6 +7,12 @@ else:
    print("Negative number")
 
 
+
 print ("some changes-1 in 4th question")
 print ("This is 2nd Changes in 4th question ")
+
+
+print ("some changes-1 in 4th question")
+print ("This is 2nd Changes in 4th question ")
+print ("This is 3rd changes in 4th question")
 
