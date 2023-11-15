@@ -12,7 +12,5 @@ print ("Change in main Branch")
 
 print ("Change 1")
 
-
-
 print ("2nd time Change in Feature Branch ")
 
