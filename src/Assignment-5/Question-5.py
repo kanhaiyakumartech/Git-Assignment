@@ -24,6 +24,4 @@ elif num > 1:
         print(num, "is not a prime number")
     else:
         print(num, "is a prime number")
-        print ("hii team this is my 1st Change in Question-5")
-        print (" this is my 2nd change in question -5")
-        print ("This file is merge with main branch")
+        print(" Code by Kanhaiya ")
