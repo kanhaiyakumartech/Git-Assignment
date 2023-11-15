@@ -4,7 +4,10 @@
 
 num = int(input("Enter a number: "))
 if (num % 2) == 0:
-   print("{0} is Even".format(num))
+   print("{0} is Even"(num))
 else:
-   print("{0} is Odd".format(num))
-print ("Change in main Branch")
+   print("{0} is Odd"(num)
+print("Change in main Branch")
+
+print ("Change 1")
+
